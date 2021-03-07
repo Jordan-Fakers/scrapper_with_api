@@ -490,3 +490,61 @@
 2021-03-04 20:30:32,059 - werkzeug - MainThread -  * Detected change in '/Users/mazn0/Desktop/Simplon/Docker/flask/bdd.py', reloading
 2021-03-04 20:30:32,104 - werkzeug - MainThread -  * Restarting with stat
 2021-03-04 20:30:32,647 - root - MainThread - insert into database: start
+2021-03-06 13:33:27,095 - werkzeug - MainThread -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-03-06 13:33:27,096 - werkzeug - MainThread -  * Restarting with stat
+2021-03-06 13:33:27,322 - werkzeug - MainThread -  * Debugger is active!
+2021-03-06 13:33:27,338 - werkzeug - MainThread -  * Debugger PIN: 240-877-176
+2021-03-06 13:33:40,935 - werkzeug - Thread-2 - 127.0.0.1 - - [06/Mar/2021 13:33:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-03-06 13:33:41,174 - werkzeug - Thread-3 - 127.0.0.1 - - [06/Mar/2021 13:33:41] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-06 13:33:41,174 - werkzeug - Thread-4 - 127.0.0.1 - - [06/Mar/2021 13:33:41] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-06 13:33:41,174 - werkzeug - Thread-5 - 127.0.0.1 - - [06/Mar/2021 13:33:41] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-06 13:33:41,690 - werkzeug - Thread-6 - 127.0.0.1 - - [06/Mar/2021 13:33:41] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-06 13:33:41,775 - werkzeug - Thread-7 - 127.0.0.1 - - [06/Mar/2021 13:33:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-06 13:33:41,928 - werkzeug - Thread-8 - 127.0.0.1 - - [06/Mar/2021 13:33:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-06 13:36:02,469 - werkzeug - MainThread -  * Detected change in '/Users/mazn0/Desktop/Simplon/Docker/flask/bdd.py', reloading
+2021-03-06 13:36:02,503 - werkzeug - MainThread -  * Restarting with stat
+2021-03-06 13:36:02,810 - werkzeug - MainThread -  * Debugger is active!
+2021-03-06 13:36:02,823 - werkzeug - MainThread -  * Debugger PIN: 240-877-176
+2021-03-06 15:13:24,897 - werkzeug - MainThread -  * Detected change in '/Users/mazn0/Desktop/Simplon/Docker/flask/bdd.py', reloading
+2021-03-06 15:13:24,948 - werkzeug - MainThread -  * Restarting with stat
+2021-03-06 15:13:36,642 - werkzeug - MainThread -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-03-06 15:13:36,643 - werkzeug - MainThread -  * Restarting with stat
+2021-03-06 15:13:36,883 - werkzeug - MainThread -  * Debugger is active!
+2021-03-06 15:13:36,895 - werkzeug - MainThread -  * Debugger PIN: 240-877-176
+2021-03-06 15:13:43,667 - werkzeug - Thread-2 - 127.0.0.1 - - [06/Mar/2021 15:13:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-03-06 15:13:43,723 - werkzeug - Thread-3 - 127.0.0.1 - - [06/Mar/2021 15:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-06 15:13:43,733 - werkzeug - Thread-4 - 127.0.0.1 - - [06/Mar/2021 15:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-06 15:13:43,733 - werkzeug - Thread-5 - 127.0.0.1 - - [06/Mar/2021 15:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-06 15:13:43,794 - werkzeug - Thread-6 - 127.0.0.1 - - [06/Mar/2021 15:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-06 15:13:43,798 - werkzeug - Thread-7 - 127.0.0.1 - - [06/Mar/2021 15:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-06 15:13:43,836 - werkzeug - Thread-8 - 127.0.0.1 - - [06/Mar/2021 15:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-06 15:14:46,404 - werkzeug - MainThread -  * Detected change in '/Users/mazn0/Desktop/Simplon/Docker/flask/app.py', reloading
+2021-03-06 15:14:46,450 - werkzeug - MainThread -  * Restarting with stat
+2021-03-06 15:14:46,738 - werkzeug - MainThread -  * Debugger is active!
+2021-03-06 15:14:46,748 - werkzeug - MainThread -  * Debugger PIN: 240-877-176
+2021-03-06 15:14:52,169 - werkzeug - Thread-2 - 127.0.0.1 - - [06/Mar/2021 15:14:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-03-06 15:14:52,226 - werkzeug - Thread-4 - 127.0.0.1 - - [06/Mar/2021 15:14:52] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-06 15:14:52,226 - werkzeug - Thread-3 - 127.0.0.1 - - [06/Mar/2021 15:14:52] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-06 15:14:52,226 - werkzeug - Thread-5 - 127.0.0.1 - - [06/Mar/2021 15:14:52] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-06 15:14:52,275 - werkzeug - Thread-6 - 127.0.0.1 - - [06/Mar/2021 15:14:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-06 15:14:52,279 - werkzeug - Thread-7 - 127.0.0.1 - - [06/Mar/2021 15:14:52] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-06 15:14:52,314 - werkzeug - Thread-8 - 127.0.0.1 - - [06/Mar/2021 15:14:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-06 15:15:16,455 - werkzeug - MainThread -  * Detected change in '/Users/mazn0/Desktop/Simplon/Docker/flask/app.py', reloading
+2021-03-06 15:15:16,528 - werkzeug - MainThread -  * Restarting with stat
+2021-03-06 15:15:16,797 - werkzeug - MainThread -  * Debugger is active!
+2021-03-06 15:15:16,807 - werkzeug - MainThread -  * Debugger PIN: 240-877-176
+2021-03-06 15:15:18,057 - werkzeug - Thread-2 - 127.0.0.1 - - [06/Mar/2021 15:15:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-03-06 15:15:18,113 - werkzeug - Thread-3 - 127.0.0.1 - - [06/Mar/2021 15:15:18] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-06 15:15:18,118 - werkzeug - Thread-4 - 127.0.0.1 - - [06/Mar/2021 15:15:18] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-06 15:15:18,118 - werkzeug - Thread-5 - 127.0.0.1 - - [06/Mar/2021 15:15:18] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-06 15:15:18,166 - werkzeug - Thread-6 - 127.0.0.1 - - [06/Mar/2021 15:15:18] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-06 15:15:18,170 - werkzeug - Thread-7 - 127.0.0.1 - - [06/Mar/2021 15:15:18] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-06 15:15:18,204 - werkzeug - Thread-8 - 127.0.0.1 - - [06/Mar/2021 15:15:18] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-06 15:15:28,058 - werkzeug - MainThread -  * Detected change in '/Users/mazn0/Desktop/Simplon/Docker/flask/app.py', reloading
+2021-03-06 15:15:28,091 - werkzeug - MainThread -  * Restarting with stat
+2021-03-06 15:15:28,343 - werkzeug - MainThread -  * Debugger is active!
+2021-03-06 15:15:28,354 - werkzeug - MainThread -  * Debugger PIN: 240-877-176
+2021-03-06 15:15:47,700 - werkzeug - MainThread -  * Detected change in '/Users/mazn0/Desktop/Simplon/Docker/flask/bdd.py', reloading
+2021-03-06 15:15:47,732 - werkzeug - MainThread -  * Restarting with stat
+2021-03-06 15:15:48,022 - werkzeug - MainThread -  * Debugger is active!
+2021-03-06 15:15:48,032 - werkzeug - MainThread -  * Debugger PIN: 240-877-176
